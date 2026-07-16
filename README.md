@@ -1,7 +1,7 @@
 
-  # Enhance Animation and Images
+  # CamoTech Solutions
 
-  This is a code bundle for Enhance Animation and Images. The original project is available at https://www.figma.com/design/ygkmESuKJcDWDOhNHHlRx2/Enhance-Animation-and-Images.
+  The Best BPO Company. The original project is available at https://www.figma.com/design/ygkmESuKJcDWDOhNHHlRx2/Enhance-Animation-and-Images.
 
   ## Running the code
 
